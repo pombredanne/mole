@@ -1,0 +1,7 @@
+{
+  "name": "mole",
+  "version": "0.1.0",
+  "dependencies": {
+    "sprintf": "0.1.1"
+  }
+}
